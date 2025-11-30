@@ -1,2 +1,3 @@
-TOKEN = "8285421568:AAEQcdQwTLxyeHbpLFlirY0aIUrHKaItEGs"
+TOKEN = ""
+
 DATABASE = "gambling.db"
